@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5h0041/ZTDZ/v1/juan/1
+seq: 1
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 岱史第一卷圖考叙曰曷云乎圖考也考泰山之形勝而繪之爲圖也夫鴻濛始判爲物者萬而惟流峙最大爲峙者萬而惟嶽最大爲嶽者五均之巍巍峻極而惟岱最大近則横亘齊魯跨引江淮遠則雄峙九紘霖雨四海豈非華夷之巨觀古今之崇鎮乎顧欲以方寸赫𨂜摠擥全勝抑何難也然自古考方辨域必取諸圖不然則周覽不能窮其勝載籍不能紀其詳即有高雅之士興起卧游之想曷從而觀焉是用㨿古證今圖諸簡端圖泰山握坤軸也而先之以星野繫乾象也圖嶽廟以神所棲也圖碧霞宫以世所崇奉也圖周明堂以帝王致治之蹟也而附之以五嶽眞形則以泰山五嶽之宗宜統會其勝也維嶽降神實生孔子萬世宗之如泰山喬嶽圖其廟而崇祀之以表聖蹟重山靈也夫天開圖畫地湧丹青豈人力哉維兹繪事肖厥化工俾世之觀覽者一披卷而對越介丘恍乎明神陟降勿勿乎欲其享之則又非特豁目惠心供勝游之適云爾
+  hash: sha256:f06b75edf695125b668b3a6ffb263a6aa62cba4713ff636fc85f28dc2bce2180
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5h0041_SJB_001-350679b, image: sjb/35/350679b.png}
+metadata:
+  title: 岱史
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-29 03:04:49.830691'
+  source:
+    repository: kanripo
+    path: KR5h0041/KR5h0041_001.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+hash: sha256:b8859258700569674a20412bfd84671d1745ff06b9aa194dc61d821ad58acee5
