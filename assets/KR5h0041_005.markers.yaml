@@ -89,6 +89,7 @@ markers:
       ', id: KR5h0041_krp_005-bkkkrnewl19}
   - {type: line-break, offset: 246, content: '', id: KR5h0041_HFL_005-001b08}
   - {type: punctuation, offset: 249, content: (, id: KR5h0041_krp_005-bkkpn1}
+  - {type: voice, offset: 249, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 252, content: /, id: KR5h0041_krp_005-bkkpn2}
   - {type: punctuation, offset: 255, content: ), id: KR5h0041_krp_005-bkkpn3}
   - {type: 'kr:newline', offset: 255, content: '
@@ -97,6 +98,7 @@ markers:
   - {type: line-break, offset: 255, content: '', id: KR5h0041_HFL_005-001b09}
   - {type: indent, offset: 257, content: 　, id: KR5h0041_krp_005-bkkind3}
   - {type: punctuation, offset: 257, content: (, id: KR5h0041_krp_005-bkkpn4}
+  - {type: voice, offset: 257, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 259, content: ), id: KR5h0041_krp_005-bkkpn5}
   - {type: 'kr:newline', offset: 259, content: '
 
@@ -104,9 +106,11 @@ markers:
   - {type: line-break, offset: 259, content: '', id: KR5h0041_HFL_005-001b10}
   - {type: indent, offset: 260, content: 　, id: KR5h0041_krp_005-bkkind4}
   - {type: punctuation, offset: 261, content: (, id: KR5h0041_krp_005-bkkpn6}
+  - {type: voice, offset: 261, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 265, content: /, id: KR5h0041_krp_005-bkkpn7}
   - {type: punctuation, offset: 269, content: ), id: KR5h0041_krp_005-bkkpn8}
   - {type: punctuation, offset: 270, content: (, id: KR5h0041_krp_005-bkkpn9}
+  - {type: voice, offset: 270, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 274, content: /, id: KR5h0041_krp_005-bkkpn10}
   - {type: punctuation, offset: 277, content: ), id: KR5h0041_krp_005-bkkpn11}
   - {type: 'kr:newline', offset: 277, content: '
@@ -811,5 +815,6 @@ markers:
   - {type: 'kr:newline', offset: 695, content: '
 
       ', id: KR5h0041_krp_005-bkkkrnewl108}
+  - {type: 'voice:problem', offset: 695, length: 0, id: KR5h0041_bkk_005-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 695}
   back: []
-hash: sha256:a078abf10a50ed1bf59de12e5868aa9e830793ba6490b36ffb3411f9e0b1eb4a
+hash: sha256:2d04764ec95031d84e01bb1c2b6e2f4ef150d365e72b25b2c3fb15d3a382c6ea

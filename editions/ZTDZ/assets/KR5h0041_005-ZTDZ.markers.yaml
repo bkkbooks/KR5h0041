@@ -79,6 +79,7 @@ markers:
       ', id: KR5h0041_ZTDZ_005-bkkkrnewl17}
   - {type: line-break, offset: 246, content: '', id: KR5h0041_SJB_005-350687b18}
   - {type: punctuation, offset: 249, content: (, id: KR5h0041_ZTDZ_005-bkkpn1}
+  - {type: voice, offset: 249, length: 6, name: note, id: n1}
   - {type: punctuation, offset: 252, content: /, id: KR5h0041_ZTDZ_005-bkkpn2}
   - {type: punctuation, offset: 255, content: ), id: KR5h0041_ZTDZ_005-bkkpn3}
   - {type: 'kr:newline', offset: 255, content: '
@@ -87,6 +88,7 @@ markers:
   - {type: line-break, offset: 255, content: '', id: KR5h0041_SJB_005-350687b19}
   - {type: indent, offset: 257, content: 　, id: KR5h0041_ZTDZ_005-bkkind3}
   - {type: punctuation, offset: 257, content: (, id: KR5h0041_ZTDZ_005-bkkpn4}
+  - {type: voice, offset: 257, length: 2, name: note, id: n2}
   - {type: punctuation, offset: 259, content: ), id: KR5h0041_ZTDZ_005-bkkpn5}
   - {type: 'kr:newline', offset: 259, content: '
 
@@ -94,9 +96,11 @@ markers:
   - {type: line-break, offset: 259, content: '', id: KR5h0041_SJB_005-350687b20}
   - {type: indent, offset: 260, content: 　, id: KR5h0041_ZTDZ_005-bkkind4}
   - {type: punctuation, offset: 261, content: (, id: KR5h0041_ZTDZ_005-bkkpn6}
+  - {type: voice, offset: 261, length: 8, name: note, id: n3}
   - {type: punctuation, offset: 265, content: /, id: KR5h0041_ZTDZ_005-bkkpn7}
   - {type: punctuation, offset: 269, content: ), id: KR5h0041_ZTDZ_005-bkkpn8}
   - {type: punctuation, offset: 270, content: (, id: KR5h0041_ZTDZ_005-bkkpn9}
+  - {type: voice, offset: 270, length: 7, name: note, id: n4}
   - {type: punctuation, offset: 274, content: /, id: KR5h0041_ZTDZ_005-bkkpn10}
   - {type: punctuation, offset: 277, content: ), id: KR5h0041_ZTDZ_005-bkkpn11}
   - {type: 'kr:newline', offset: 277, content: '
@@ -750,5 +754,6 @@ markers:
   - {type: 'kr:newline', offset: 695, content: '
 
       ', id: KR5h0041_ZTDZ_005-bkkkrnewl86}
+  - {type: 'voice:problem', offset: 695, length: 0, id: KR5h0041_ZTDZ_005-bkkvprob1, source: parens, bucket: body, code: unmatched-open, message: unmatched '(' at offset 695}
   back: []
-hash: sha256:bc5d6f5633fae529d5f5815cabb1edb7385a9a003a9da2bfbe8a109606679f73
+hash: sha256:2fe1452503e1154d8584ec07fa6aaf75cd20ffa237c8be4a5014626b2901a732
